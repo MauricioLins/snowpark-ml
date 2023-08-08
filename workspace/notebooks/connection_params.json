@@ -1,0 +1,12 @@
+{
+  "account": "nx16254.uk-south.azure",
+  "user": "",
+  "password": "",
+  "role": "ACCOUNTADMIN",
+  "warehouse": "COMPUTE_WH",
+  "database": "SNOWPARK_DEMO",
+  "schema": "ML",
+  "login_timeout": 1800,
+  "network_timeout": 1800,
+  "client_session_keep_alive": "True"
+}
