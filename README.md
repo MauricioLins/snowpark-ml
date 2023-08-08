@@ -1,10 +1,10 @@
-![Snowflake](images/Snowflake_Logo.svg.png)
-![NTT DATA](images/2560px-NTT-Data-Logo.svg.png)
+![Snowflake](workspace/img/Snowflake_Logo.svg.png)
+![NTT DATA](workspace/img/2560px-NTT-Data-Logo.svg.png)
 ![Snowpark](images/welcome.jpg)
 
 ## Introduction
 
-This repository is the source of my presentation in the Big Data London 2022 where I talked about **Accelerating Machine Learning Adoption with Snowpark** 
+This repository is the source of my presentation in the **Big Data London 2022** where I talked about **Accelerating Machine Learning Adoption with Snowpark** 
 
 ![BigDataLondon](images/snowflake_big_data_london_2022.jpg)
 
