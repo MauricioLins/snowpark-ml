@@ -8,7 +8,7 @@ This repository is the source of my presentation in the **Big Data London 2022**
 
 ![BigDataLondon](images/snowflake_big_data_london_2022.jpg)
 
-In this code I quick demonstrate the steps to run a model training including the **store procedure** for the model trainig as per the Snowflake recommendation.
+In this code I quick demonstrate the steps to run a model trainning including the **store procedure** for the model trainig as per the Snowflake recommendation.
 
 You can also see how to make a ML model available and make it available to business users to consume it within their own Snowflake queries, for example.
 
