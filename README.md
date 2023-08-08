@@ -1,5 +1,5 @@
-![Snowflake](images/Snowflake_Logo.svg.png)
-![NTT DATA](images/2560px-NTT-Data-Logo.svg.png)
+![Snowflake](img/Snowflake_Logo.svg.png)
+![NTT DATA](img/2560px-NTT-Data-Logo.svg.png)
 ![Snowpark](images/welcome.jpg)
 
 ## Introduction
