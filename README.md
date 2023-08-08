@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository is the source of my presentation in the Big Data London 2022 where I talked about **Accelerating Machine Learning Adoption with Snowpark** 
+This repository is the source of my presentation in the **Big Data London 2022** where I talked about **Accelerating Machine Learning Adoption with Snowpark** 
 
 ![BigDataLondon](images/snowflake_big_data_london_2022.jpg)
 
