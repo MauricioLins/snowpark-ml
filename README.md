@@ -5,6 +5,7 @@
 ## Introduction
 
 This repository is the source of my presentation in the Big Data London 2022 where I talked about **Accelerating Machine Learning Adoption with Snowpark** 
+
 ![BigDataLondon](images/snowflake_big_data_london_2022.jpg)
 
 In this code I quick demonstrate the steps to run a model training including the **store procedure** for the model trainig as per the Snowflake recommendation.
